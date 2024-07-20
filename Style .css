@@ -1,0 +1,46 @@
+img {
+    width: 900px;
+   
+}
+.unordered-list {
+    list-style: circle;
+    list-style-position: outside;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.ordered-list {
+    list-style-position: outside;
+}
+ol {
+   list-style-image: url(tick-circle-svgrepo-com\ \(1\).svg);
+}
+.ingredients {
+    font-size: 20px;
+    line-height: 3;
+}
+header {
+    margin: 20px;
+  padding: 20px;
+}
+.dil {
+background-color: aqua;
+}
+.sal {
+    background-color: azure;
+}
+.ass {
+    background-color: bisque;
+
+}
+.tar {
+    background-color: burlywood;
+}
+.ba {
+    background-color: coral;
+}
+.fa {
+    background-color: cornsilk;
+}
+.recipe-details {
+    background-color: white;
+    box-shadow: 10px 10px 10px 10px gray;
+}
